@@ -2,7 +2,7 @@ public abstract class Animal {
     public String name;
     public int distanceRun;
     public int distanceSwim;
-
+ 
     public Animal(String name, int distanceRun, int distanceSwim) {
         this.name = name;
         this.distanceRun = distanceRun;
